@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Project data (keep local)
+data/
+Grocery_and_Gourmet_Food.jsonl
+.DS_Store
